@@ -1,3 +1,4 @@
+package me.pikod.main;
 import java.io.File;
 
 public class Main extends Thread {
